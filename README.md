@@ -12,5 +12,7 @@ In this course we'll start studying linear structures from a concrete and comput
 License:
 
 CC BY-NC-SA 4.0
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/
